@@ -1,0 +1,91 @@
+{
+    "journal": {
+      "nomJournal": "Bien-Être Magazine",
+      "phraseAccroche": "Votre source d'inspiration pour une vie équilibrée et harmonieuse",
+      "texteAppelAction": "Inscrivez-vous pour recevoir des conseils exclusifs sur le bien-être",
+      "articlePrincipal": {
+        "titre": "Rituels du matin : Comment bien démarrer sa journée pour un esprit apaisé",
+        "description": "Découvrez des habitudes simples et efficaces pour booster votre énergie et votre sérénité chaque matin.",
+        "date": "1er Décembre 2024",
+        "theme": "Routines et habitudes",
+        "image": "https://th.bing.com/th/id/R.c53832bcf8ed5e63d1cb5045575a7024?rik=B1amI912nXODSQ&pid=ImgRaw&r=0"
+      },
+      "articles": [
+        {
+          "titre": "Les 7 bienfaits prouvés de la méditation quotidienne",
+          "date": "28 Novembre 2024",
+          "theme": "Santé mentale",
+          "image": "https://th.bing.com/th?id=OIP.OoJbvqp0bE1ezR4yT5LbxwHaEo&w=316&h=197&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2"
+        },
+        {
+          "titre": "Nutrition et bien-être : Les super-aliments à intégrer dans vos repas",
+          "date": "20 Novembre 2024",
+          "theme": "Alimentation",
+          "image": "https://th.bing.com/th/id/OIP.fV1m-qddWpw7owC-8weaWwHaE8?w=270&h=183&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+        },
+        {
+          "titre": "Yoga pour débutants : Étirez-vous pour apaiser votre esprit",
+          "date": "15 Novembre 2024",
+          "theme": "Activité physique",
+          "image": "https://th.bing.com/th?id=OIP.tiy6Qk76YTV4snf9MtglhgHaE8&w=306&h=204&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2"
+        },
+        {
+          "titre": "Détox digitale : Pourquoi et comment s’éloigner des écrans",
+          "date": "10 Novembre 2024",
+          "theme": "Santé numérique",
+          "image": "https://th.bing.com/th?id=OIP.x2AGpG5UTIqvvptEu-UmmwHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2"
+        },
+        {
+          "titre": "Le pouvoir des huiles essentielles pour réduire le stress",
+          "date": "5 Novembre 2024",
+          "theme": "Thérapies naturelles",
+          "image": "https://th.bing.com/th/id/OIP.sMsbefa4yM0Q14k2vv0AEgHaE8?w=262&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+        }
+      ],
+      "themes": [
+        {
+          "nom": "Santé mentale",
+          "description": "Des techniques et astuces pour prendre soin de votre esprit."
+        },
+        {
+          "nom": "Alimentation",
+          "description": "Une nutrition équilibrée pour une vie saine et énergique."
+        },
+        {
+          "nom": "Activité physique",
+          "description": "Des idées d'exercices et pratiques pour un corps en pleine santé."
+        },
+        {
+          "nom": "Santé numérique",
+          "description": "Comment adopter un usage sain des technologies au quotidien."
+        },
+        {
+          "nom": "Thérapies naturelles",
+          "description": "Les solutions alternatives pour améliorer votre bien-être."
+        },
+        {
+          "nom": "Routines et habitudes",
+          "description": "Des conseils pour instaurer des habitudes favorisant votre équilibre."
+        }
+      ],
+      "auteurs": [
+        {
+          "prenom": "Camille",
+          "typeExperience": "Coach en développement personnel",
+          "presentation": "J'accompagne les personnes dans leur quête d'équilibre et de sérénité au quotidien."
+        },
+        {
+          "prenom": "Julien",
+          "typeExperience": "Nutritionniste",
+          "presentation": "Expert en alimentation saine, je partage des conseils pour allier plaisir et bien-être."
+          
+        },
+        {
+          "prenom": "Laura",
+          "typeExperience": "Praticienne en médecines douces",
+          "presentation": "Passionnée par les thérapies naturelles, j’aide les autres à adopter des solutions holistiques pour une meilleure santé."
+        }
+      ]
+    }
+  }
+  
