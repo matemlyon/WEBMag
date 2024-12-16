@@ -13,30 +13,35 @@
       "articles": [
         {
           "titre": "Les 7 bienfaits prouvés de la méditation quotidienne",
+          "description": "Cet article explique comment la méditation peut améliorer votre bien-être mental et physique, avec des techniques simples à intégrer dans votre quotidien.",
           "date": "28 Novembre 2024",
           "theme": "Santé mentale",
           "image": "https://th.bing.com/th?id=OIP.OoJbvqp0bE1ezR4yT5LbxwHaEo&w=316&h=197&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2"
         },
         {
           "titre": "Nutrition et bien-être : Les super-aliments à intégrer dans vos repas",
+          "description": "Cet article explore les dernières tendances en matière de nutrition et de santé, avec des conseils pratiques pour adopter une alimentation équilibrée.",
           "date": "20 Novembre 2024",
           "theme": "Alimentation",
           "image": "https://th.bing.com/th/id/OIP.fV1m-qddWpw7owC-8weaWwHaE8?w=270&h=183&c=7&r=0&o=5&dpr=1.5&pid=1.7"
         },
         {
           "titre": "Yoga pour débutants : Étirez-vous pour apaiser votre esprit",
+          "description": "Découvrez comment le yoga peut réduire le stress, améliorer votre souplesse et renforcer votre corps, tout en vous apportant des bienfaits mentaux.",
           "date": "15 Novembre 2024",
           "theme": "Activité physique",
           "image": "https://th.bing.com/th?id=OIP.tiy6Qk76YTV4snf9MtglhgHaE8&w=306&h=204&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2"
         },
         {
           "titre": "Détox digitale : Pourquoi et comment s’éloigner des écrans",
+          "description": "Apprenez comment améliorer la qualité de votre sommeil grâce à des astuces pratiques pour créer un environnement propice à la détente.",
           "date": "10 Novembre 2024",
           "theme": "Santé numérique",
           "image": "https://th.bing.com/th?id=OIP.x2AGpG5UTIqvvptEu-UmmwHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2"
         },
         {
           "titre": "Le pouvoir des huiles essentielles pour réduire le stress",
+          "description": "Cet article explore l'utilisation des huiles essentielles comme remède naturel pour réduire le stress. Découvrez les huiles les plus efficaces, leurs bienfaits et comment les intégrer dans votre routine quotidienne pour un bien-être optimal.",
           "date": "5 Novembre 2024",
           "theme": "Thérapies naturelles",
           "image": "https://th.bing.com/th/id/OIP.sMsbefa4yM0Q14k2vv0AEgHaE8?w=262&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7"
@@ -72,18 +77,21 @@
         {
           "prenom": "Camille",
           "typeExperience": "Coach en développement personnel",
-          "presentation": "J'accompagne les personnes dans leur quête d'équilibre et de sérénité au quotidien."
+          "presentation": "J'accompagne les personnes dans leur quête d'équilibre et de sérénité au quotidien.",
+          "image" : "https://th.bing.com/th?id=OIF.yImGJ%2bKl%2bYIfXGJO3ha39g&w=178&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7"
         },
         {
           "prenom": "Julien",
           "typeExperience": "Nutritionniste",
-          "presentation": "Expert en alimentation saine, je partage des conseils pour allier plaisir et bien-être."
+          "presentation": "Expert en alimentation saine, je partage des conseils pour allier plaisir et bien-être.",
+          "image" : "https://th.bing.com/th/id/OIP.ER5P38KInq6CTZzXm5OQyQHaE8?w=279&h=185&c=7&r=0&o=5&dpr=1.5&pid=1.7"
           
         },
         {
           "prenom": "Laura",
           "typeExperience": "Praticienne en médecines douces",
-          "presentation": "Passionnée par les thérapies naturelles, j’aide les autres à adopter des solutions holistiques pour une meilleure santé."
+          "presentation": "Passionnée par les thérapies naturelles, j’aide les autres à adopter des solutions holistiques pour une meilleure santé.",
+          "image" : "https://th.bing.com/th/id/OIP.4VkhWQMJXTWuysDuGr4TCwGQGQ?w=167&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7 "
         }
       ]
     }

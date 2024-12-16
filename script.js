@@ -15,6 +15,9 @@ function getData() {
      console.log(nomJournal);
      let phraseAccroche = journal.phraseAccroche;
      console.log(phraseAccroche);
+
+     document.getElementById('phrase-accroche').innerText = phraseAccroche;
+
      let texteAppelAction= journal.texteAppelAction;
      console.log(texteAppelAction);
      let articlePrincipal= journal.articlePrincipal;
@@ -79,6 +82,7 @@ function afficherTheme(themes, container){
   container.insertAdjacentHTML('beforeend', element);
   });
   }
+
 function afficherArticle(article, container){
  let titre = article.titre;
  let date = article.date;
@@ -87,17 +91,22 @@ function afficherArticle(article, container){
  let description = article.description;
 
  let element = `
-  <div class="article-principal">
+  <div class="article">
+  <div class="article-image">
   <img src="${image}" alt="${titre}">
-  <div class="text-container">
+</div>
+  <div class="article-text">
         <h1>${titre}</h1>
+        <div class="meta-info">
         <h2>${theme} / ${date}</h2>
-       <p>${article.description}</p>
+       <p>${description}</p>
         <button class="article-button">
             <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ton-adresse@email.com" target="_blank" rel="noopener noreferrer">Lire l'article</a>
         </button>
        </div>
-    </div>`;
+      </div>
+    </div>
+    `;
     container.insertAdjacentHTML('beforeend', element);
 }
 function afficherAuteur(auteur, container){
